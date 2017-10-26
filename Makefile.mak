@@ -9,7 +9,7 @@ COM_CFLAGS=  \
 -g \
 -O0 \
 -std=c99 \
--DPROJECT1
+-DPROJECT2
 
 KL25Z_CFLAGS= \
 -mcpu=cortex-m0plus \
