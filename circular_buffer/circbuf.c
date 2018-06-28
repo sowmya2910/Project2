@@ -1,5 +1,4 @@
-/**
-* @file circbuf.c
+/** @file circbuf.c
 * @brief This file contains functions which perform the circular buffer operations
 *
 * @author Sowmya Ramakrishnan, Vinayak Srivatsan Kovalam Mohan
