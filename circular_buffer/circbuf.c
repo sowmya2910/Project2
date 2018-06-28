@@ -32,14 +32,9 @@ CB_status CB_buffer_add_item (CB_t *buffer, uint8_t num)
 		stat=Full;
 	    	return stat;
 	}
-	else
-	{
-		buffer->buffer_pointer[buffer->head]=num;
-		buffer->head=next;
-		stat=No_Error;
-		buffer->count++;
-		return stat;
-	}
+	else 
+{
+}
 }
 
 /******************************************************************//****
